@@ -1,0 +1,9 @@
+{
+  "name": "Destiny",
+  "version": "1.0.0",
+  "description": "Portfolio Template",
+  "main": "index.js",
+  "repository": "https://github.com/Dtibbs5145/html5up-highlights",
+  "author": "Destiny Tibbitts",
+  "license": "MIT"
+}
